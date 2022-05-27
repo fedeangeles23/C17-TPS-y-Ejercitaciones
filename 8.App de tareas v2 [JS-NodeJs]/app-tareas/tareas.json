@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "Levantarme.",
+        "estado": "Realizada."
+    },
+    {
+        "titulo": "Desayunar.",
+        "estado": "Realizada."
+    },
+    {
+        "titulo": "Asistir a clases.",
+        "estado": "Realizada."
+    },
+    {
+        "titulo": "Almorzar.",
+        "estado": "Realizada."
+    },
+    {
+        "titulo": "Descansar.",
+        "estado": "Realizada."
+    },
+    {
+        "titulo": "Estudiar.",
+        "estado": "En progreso."
+    },
+    {
+        "titulo": "Ocio.",
+        "estado": "Pendiente."
+    },
+    {
+        "titulo": "Hacer ejercicio.",
+        "estado": "Pendiente."
+    },
+    {
+        "titulo": "Ducharme.",
+        "estado": "Pendiente."
+    }
+]
