@@ -37,4 +37,4 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 <img align="center" src= "https://i.postimg.cc/5yZnFLHr/santander.jpg)](https://postimg.cc/9wYG64YP"></img>
 
-⭐️ From [@fedeangeles23](https://github.com/fedeangeles23)
+⭐️ From [fedeangeles23](https://github.com/fedeangeles23)
