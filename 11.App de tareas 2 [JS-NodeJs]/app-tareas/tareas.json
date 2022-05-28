@@ -1,0 +1,47 @@
+[
+    {
+        "titulo": "Levantarme",
+        "estado": "Realizada",
+        "categoria": "Hogar"
+    },
+    {
+        "titulo": "Desayunar",
+        "estado": "Realizada",
+        "categoria": "Hogar"
+    },
+    {
+        "titulo": "Asistir a clase",
+        "estado": "Realizada",
+        "categoria": "Formar"
+    },
+    {
+        "titulo": "Almorzar",
+        "estado": "Realizada",
+        "categoria": "Hogar"
+    },
+    {
+        "titulo": "Descansar",
+        "estado": "Realizada",
+        "categoria": "Hogar"
+    },
+    {
+        "titulo": "Estudiar",
+        "estado": "En progreso",
+        "categoria": "Playground"
+    },
+    {
+        "titulo": "Ocio",
+        "estado": "Pendiente",
+        "categoria": "Otro"
+    },
+    {
+        "titulo": "Hacer ejercicio",
+        "estado": "Pendiente",
+        "categoria": "Otro"
+    },
+    {
+        "titulo": "Ducharme",
+        "estado": "Pendiente",
+        "categoria": "Hogar"
+    }
+]
