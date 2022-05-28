@@ -22,6 +22,9 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
   - [App de tareas v3 [JS-NodeJs]](https://github.com/fedeangeles23/2.AppDeTareas-V3)
   - [App de tareas v4 [JS-NodeJs]](https://github.com/fedeangeles23/2.AppDeTareas-V4)
 
+- 5 Terminando la app de tareas.
+  - [App de tareas 2 [JS-NodeJs]](https://github.com/fedeangeles23/3.AppDeTareas2)
+
 ### Módulo 3: 
 
 
