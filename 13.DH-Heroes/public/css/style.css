@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    background: #000000;
+    background: linear-gradient(180deg, #000000 0%, #790909 85%);
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .header {
+    width: 100%;
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+.navbar {
+    width: 100%;
+    margin: auto;
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px;
+    position: relative;
+  }
+  
+  .navbar ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+  }
+  
+  .navbar ul li::before {
+    content: "";
+    height: 3px;
+    width: 0%;
+    background: rgb(255, 0, 0);
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    transition: 0.4s ease-in-out;
+  }
+  
+  .navbar ul li:hover::before {
+    width: 100%;
+  }
+  
+
+  /*HOME*/
+section {
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  
+  .contenedor {
+    width: 100%;
+    max-width: 1200px;
+    height: 430px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+  }
+  .contenedor .card {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 2px 2px white;
+    overflow: hidden;
+    margin: 12px;
+    text-align: center;
+    transition: all 0.25s;  
+  }
+  
+  .contenedor .card:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 12px 16px red;
+  }
+  
+  .contenedor .card img{
+    width: auto;
+    height: 300px;
+  }
+  
+  .contenedor .card h4{
+    font-weight: 600;
+    color: white;
+  }
+  .contenedor .card p{
+   padding: 10px 10px 10px 10px;
+   font-size: 12px;
+   font-weight: 300;
+   color: white;
+  }
+  
+  .contenedor .card a{
+    text-decoration: none;
+  }
+  
+  /*HEROES*/
+  .heroes {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+  }	
+  
+  .heroes .dh {
+      width: 700px;
+      height: auto;
+      overflow: hidden;
+      margin: auto;
+  }
+  .heroes h1{
+    font-size: 50px;
+  }
+  
+  .heroes p{
+    font-size: 14px;
+    padding: 5px;
+    color: white;
+    text-align: justify;
+  }
+   
+  .heroes .dh img {
+    width: 25%;
+    height: 100%;
+    align-items: center;
+  }
+
+  /* Footer */
+
+  footer {
+    width: 100%;
+    margin: auto;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+  }

@@ -1,0 +1,42 @@
+[{
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "precio": 150000,
+    "km": 200,
+    "color": "Azul",
+    "cuotas": 12,
+    "anio": 2019,
+    "patente": "APL123",
+    "vendido": false
+}, {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "precio": 100000,
+    "km": 0,
+    "color": "Blanco",
+    "cuotas": 14,
+    "anio": 2019,
+    "patente": "JJK116",
+    "vendido": false
+}, {
+    "marca": "Honda",
+    "modelo": "Accord",
+    "precio": 120000,
+    "km": 0,
+    "color": "Gris",
+    "cuotas": 12,
+    "anio": 2019,
+    "patente": "CNE116",
+    "vendido": true
+}, {
+    "marca": "Audi",
+    "modelo": "A5",
+    "precio": 220000,
+    "km": 25,
+    "color": "Negro",
+    "cuotas": 16,
+    "anio": 2019,
+    "patente": "ATR420",
+    "vendido": true
+}]
+

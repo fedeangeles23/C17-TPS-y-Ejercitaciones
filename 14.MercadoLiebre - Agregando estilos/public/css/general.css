@@ -1,0 +1,27 @@
+
+/* Reglas generales*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+body {
+    font-family: var(--font-roboto);
+    background-color: var(--gris-claro);
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+  html{
+	height: 100%;
+}
+
+li{
+    list-style: none;
+}

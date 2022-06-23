@@ -1,0 +1,84 @@
+/* HEADER*/
+
+header {
+    background-color: var(--amarillo);
+    font-size: var(--paragraph);
+    padding-bottom: 10px;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* CONTAINER LOGO*/
+header .container-logo {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+header .container-logo .logo {
+    width: 30%;
+    padding-top: 25px;
+    margin-top: -20px;
+}
+
+header .container-logo .logo__img{
+    margin-top: 20px;
+}
+
+header .container-logo .form{
+    margin-top: 20px;
+}
+
+/* Input */
+header .container-logo .form input {
+    padding: 10px;
+    border: none;
+    border-radius: 7px;
+}
+
+/* Search */
+header .container-logo .form button{
+    margin-left: -20px;
+    color: gray;
+    background: white;
+    padding: 10px;
+    border: none;
+    border-radius: 7px;
+}
+
+/* search-bar */
+header .container-logo #search-bar {
+    display: flex;
+    margin-left: 5px; 
+}
+
+/* Quota */
+header .quota {
+    text-align: center;
+    margin: 20px 0 20px;
+}
+
+header .burger-menu {
+    background-color: var(--celeste);
+    color: #fff;
+    width: 32px;
+    padding: 6px;
+    font-size: 15px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px auto 0;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+/* Nav */
+header nav ul#top-list {
+    margin-bottom: 25px;
+}
+
+
