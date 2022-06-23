@@ -1,14 +1,19 @@
 {
-  "name": "mercadoliebre",
+  "name": "6.mercado-liebre-1---estructura-de-un-sitio-web",
   "version": "1.0.0",
-  "description": "trabajo practico que se realizara en partes. P1.",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mariana soledad blanez",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedeangeles23/MercadoLiebre1.git"
+  },
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.1"
-  }
+  "bugs": {
+    "url": "https://github.com/fedeangeles23/MercadoLiebre1/issues"
+  },
+  "homepage": "https://github.com/fedeangeles23/MercadoLiebre1#readme"
 }
