@@ -35,10 +35,11 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
   - [DH-Heroes [HTML-CSS-JS]](https://github.com/fedeangeles23/DH-Heroes)
   
 - 2 Creando la estructura de un sitio web.
-  - [Mercado Liebre 1 - Estructura de un sitio web [HTML]](https://github.com/fedeangeles23/mercado-liebre-v1)
+  - [Mercado Liebre 1 - Estructura de un sitio web [HTML]](https://github.com/fedeangeles23/MercadoLiebre1.git)
+  - [Emilia Cole - Diseño de página web [HTML - CSS]](https://github.com/fedeangeles23/Emilia-Cole.git) 
 
-- 3 Agregando estilos.
-  - [Mercado Liebre 2 - Agregando Estilos [HTML-CSS]](https://github.com/fedeangeles23/mercado-liebre-v2) 
+- 4 Agregando estilos.
+  - [Mercado Liebre 2 - Agregando Estilos [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre2) 
 
 
 ### Gracias a:
