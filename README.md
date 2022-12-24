@@ -10,19 +10,19 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 - 2 Prácticando con node.
   - [Ejercitación grupal [JS-NodeJs]](https://github.com/fedeangeles23/C17-TPS)
    
-- 3 Haciendo una calculadora.
+- 3 Haciendo una calculadora [TP N°1].
   - [Calculadora v1 [JS-NodeJs]](https://github.com/fedeangeles23/1.Calculadora)
   - [Calculadora v2 [JS-NodeJs]](https://github.com/fedeangeles23/1.Calculadora-V2)
   - [Calculadora v3 [JS-NodeJs]](https://github.com/fedeangeles23/1.Calculadora-V3)
   - [Calculadora v4 [JS-NodeJs]](https://github.com/fedeangeles23/1.Calculadora-V4)
   
-- 4 Haciendo una app de tareas.
+- 4 Haciendo una app de tareas [TP N°2].
   - [App de tareas v1 [JS-NodeJs]](https://github.com/fedeangeles23/2.AppDeTareas-V1)
   - [App de tareas v2 [JS-NodeJs]](https://github.com/fedeangeles23/2.AppDeTareas-V2)
   - [App de tareas v3 [JS-NodeJs]](https://github.com/fedeangeles23/2.AppDeTareas-V3)
   - [App de tareas v4 [JS-NodeJs]](https://github.com/fedeangeles23/2.AppDeTareas-V4)
 
-- 5 Terminando la app de tareas.
+- 5 Terminando la app de tareas [TP N°3].
   - [App de tareas 2 [JS-NodeJs]](https://github.com/fedeangeles23/3.AppDeTareas2)
 
 ### Módulo 3: 
@@ -31,15 +31,33 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 ### Módulo 4:
 
-- 1 Introducción a servidores.
+- 1 Introducción a servidores [TP N°4].
   - [DH-Heroes [HTML-CSS-JS]](https://github.com/fedeangeles23/DH-Heroes)
   
-- 2 Creando la estructura de un sitio web.
+- 2 Creando la estructura de un sitio web [TP N°5].
   - [Mercado Liebre 1 - Estructura de un sitio web [HTML]](https://github.com/fedeangeles23/MercadoLiebre1.git)
   - [Emilia Cole - Diseño de página web [HTML - CSS]](https://github.com/fedeangeles23/Emilia-Cole.git) 
 
-- 4 Agregando estilos.
+- 4 Agregando estilos [TP N°6].
   - [Mercado Liebre 2 - Agregando Estilos [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre2) 
+
+- 5 Diseño Adaptativo [TP N°7].
+  - [Mercado Liebre 2 - Agregando Estilos [HTML-CSS]](https://github.com/fedeangeles23/Mercadoliebre3) 
+- Segundo SPRINT.
+
+- 5 Posicionamiento avanzado con FLEXBOX [TP N°8].
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Gracias a:
