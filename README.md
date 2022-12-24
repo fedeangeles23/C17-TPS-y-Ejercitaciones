@@ -36,16 +36,18 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
   
 - 2 Creando la estructura de un sitio web [TP N°5].
   - [Mercado Liebre 1 - Estructura de un sitio web [HTML]](https://github.com/fedeangeles23/MercadoLiebre1.git)
-  - [Emilia Cole - Diseño de página web [HTML - CSS]](https://github.com/fedeangeles23/Emilia-Cole.git) 
+
+- 3 [Emilia Cole - Diseño de página web [HTML - CSS]](https://github.com/fedeangeles23/Emilia-Cole.git)
 
 - 4 Agregando estilos [TP N°6].
   - [Mercado Liebre 2 - Agregando Estilos [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre2) 
 
 - 5 Diseño Adaptativo [TP N°7].
-  - [Mercado Liebre 3 - Agregando Estilos [HTML-CSS]](https://github.com/fedeangeles23/Mercadoliebre3) 
+  - [Mercado Liebre 3 - Diseño adaptativo [HTML-CSS]](https://github.com/fedeangeles23/Mercadoliebre3) 
 - Segundo SPRINT.
 
-- 6 Posicionamiento avanzado con FLEXBOX [TP N°8]. [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre4)
+- 6 Posicionamiento avanzado con FLEXBOX [TP N°8].
+ - [Mercado Liebre 4 - [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre4)
 
 - 7 Trabajando con formularios [TP N°9]. [HTML-CSS]](https://github.com/fedeangeles23/Formularios.git)
 
