@@ -55,13 +55,14 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
   - [Mercado Liebre 5 - Trabajando con formularios [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre5.git) 
 
 - 8 Organizando y animando elementos.
-  - [Mercado Liebre 6 [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre6.git) 
+  - [Mercado Liebre 6 [HTML- CSS]](https://github.com/fedeangeles23/MercadoLiebre6.git) 
 
 - Tercer Sprint.
 
 ### Módulo 5:
 
-
+- 1 Patrones de diseño MVC [TP N°10]
+  - [Pimienta y Sal - Patrones de diseño MVC [EJS - CSS]](https://github.com/fedeangeles23/PatronesDeDisenioMVC.git)
 
 
 
