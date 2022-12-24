@@ -47,7 +47,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 - Segundo SPRINT.
 
 - 6 Posicionamiento avanzado con FLEXBOX [TP N°8].
- - [Mercado Liebre 4 - [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre4)
+ - [Mercado Liebre 4 - Posicionamiento avanzado con FLEXBOX [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre4)
 
 - 7 Trabajando con formularios [TP N°9]. [HTML-CSS]](https://github.com/fedeangeles23/Formularios.git)
 
