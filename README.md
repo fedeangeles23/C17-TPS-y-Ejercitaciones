@@ -42,7 +42,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
   - [Mercado Liebre 2 - Agregando Estilos [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre2) 
 
 - 5 Diseño Adaptativo [TP N°7].
-  - [Mercado Liebre 2 - Agregando Estilos [HTML-CSS]](https://github.com/fedeangeles23/Mercadoliebre3) 
+  - [Mercado Liebre 3 - Agregando Estilos [HTML-CSS]](https://github.com/fedeangeles23/Mercadoliebre3) 
 - Segundo SPRINT.
 
 - 5 Posicionamiento avanzado con FLEXBOX [TP N°8].
