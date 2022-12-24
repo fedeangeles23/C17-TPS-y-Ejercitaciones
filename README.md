@@ -37,7 +37,8 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 - 2 Creando la estructura de un sitio web [TP N°5].
   - [Mercado Liebre 1 - Estructura de un sitio web [HTML]](https://github.com/fedeangeles23/MercadoLiebre1.git)
 
-- 3 [Emilia Cole - Diseño de página web [HTML - CSS]](https://github.com/fedeangeles23/Emilia-Cole.git)
+- 3 Práctica Adicional - Emilia Cole.
+  -[Emilia Cole - Diseño de página web [HTML - CSS]](https://github.com/fedeangeles23/Emilia-Cole.git) 
 
 - 4 Agregando estilos [TP N°6].
   - [Mercado Liebre 2 - Agregando Estilos [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre2) 
