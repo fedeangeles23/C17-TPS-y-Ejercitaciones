@@ -61,8 +61,23 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 ### Módulo 5:
 
-- 1 Patrones de diseño MVC [TP N°10]
-  - [Pimienta y Sal - Patrones de diseño MVC [EJS - CSS]](https://github.com/fedeangeles23/PatronesDeDisenioMVC.git)
+- 1 Patrones de diseño MVC [TP N° 10]
+  - [Pimienta y Sal - Patrones de diseño MVC [EJS - CSS - JS]](https://github.com/fedeangeles23/PatronesDeDisenioMVC.git)
+
+- 2 Vistas dinámicas EJS [TP N° 11]
+  - [ejroejroje - Vistas Dinámicas EJS [EJS - CSS - JS]](https://github.com/fedeangeles23/VistasDinamicasEJS.git)
+
+- 3 Mercado Liebre CRUD 1 [TP N° 12]
+  - [CRUD Episodio 1 - Mercado Liebre [EJS - CSS - JS]](https://github.com/fedeangeles23/MercadoLiebre-CRUD-1.git)
+
+
+
+
+
+
+
+
+
 
 
 
