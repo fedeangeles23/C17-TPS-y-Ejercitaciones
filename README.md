@@ -68,15 +68,25 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
   - [ejroejroje - Vistas Dinámicas EJS [EJS - CSS - JS]](https://github.com/fedeangeles23/VistasDinamicasEJS.git)
 
 - 3 Mercado Liebre CRUD 1 [TP N° 12]
-  - [CRUD Episodio 1 - Mercado Liebre [EJS - CSS - JS]](https://github.com/fedeangeles23/MercadoLiebre-CRUD-1.git)
+  - [CRUD Episodio 1 - Mercado Liebre [EJS - CSS - JS]](https://github.com/fedeangeles23/MercadoLiebre7-CRUD-1.git)
 
+- Cuarto Sprint.
 
+- 4 Mercado Liebre CRUD 1 [TP N° 13]
+  - [CRUD Episodio 2 - Mercado Liebre [EJS - CSS - JS]](https://github.com/fedeangeles23/MercadoLiebre8-CRUD-2.git)
+  
+- 5 Middlewares [TP N° 14]
+  - [Aprendiendo sobre Middlewares [EJS - CSS - JS]](https://github.com/fedeangeles23/Middlewares.git)
 
+- 6 Session y Cookies [TP N° 15]
+  - [Aprendiendo sobre galletitas y sesiones de terapia [EJS - CSS - JS]](https://github.com/fedeangeles23/SessionYCookies.git)
 
+- Quinto Sprint.
 
+### Módulo 6:
 
-
-
+- 1 Diseño y definición de tablas [TP N° 16]
+  - [Aprendiendo a crear y diseñar tablas[EJS - CSS - JS - SQL]]()
 
 
 
