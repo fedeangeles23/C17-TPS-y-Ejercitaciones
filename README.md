@@ -27,7 +27,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 ### Módulo 3: 
 
-- Primer SPRINT
+- PRIMER SPRINT
 
 ### Módulo 4:
 
@@ -57,7 +57,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 - 8 Organizando y animando elementos.
   - [Mercado Liebre 6 [HTML- CSS]](https://github.com/fedeangeles23/MercadoLiebre6.git) 
 
-- Tercer Sprint.
+- TERCER SPRINT.
 
 ### Módulo 5:
 
@@ -70,7 +70,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 - 3 Mercado Liebre CRUD 1 [TP N°12]
   - [CRUD Episodio 1 - Mercado Liebre [EJS - CSS - JS]](https://github.com/fedeangeles23/MercadoLiebre7-CRUD-1.git)
 
-- Cuarto Sprint.
+- CUARTO SPRINT.
 
 - 4 Mercado Liebre CRUD 1 [TP N°13]
   - [CRUD Episodio 2 - Mercado Liebre [EJS - CSS - JS]](https://github.com/fedeangeles23/MercadoLiebre8-CRUD-2.git)
@@ -81,7 +81,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 - 6 Session y Cookies [TP N°15]
   - [Aprendiendo sobre galletitas y sesiones de terapia [EJS - CSS - JS]](https://github.com/fedeangeles23/SessionYCookies.git)
 
-- Quinto Sprint.
+- QUINTO SPRINT.
 
 ### Módulo 6:
 
