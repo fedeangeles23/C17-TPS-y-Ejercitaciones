@@ -61,32 +61,75 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 ### Módulo 5:
 
-- 1 Patrones de diseño MVC [TP N° 10]
+- 1 Patrones de diseño MVC [TP N°10]
   - [Pimienta y Sal - Patrones de diseño MVC [EJS - CSS - JS]](https://github.com/fedeangeles23/PatronesDeDisenioMVC.git)
 
 - 2 Vistas dinámicas EJS [TP N° 11]
   - [ejroejroje - Vistas Dinámicas EJS [EJS - CSS - JS]](https://github.com/fedeangeles23/VistasDinamicasEJS.git)
 
-- 3 Mercado Liebre CRUD 1 [TP N° 12]
+- 3 Mercado Liebre CRUD 1 [TP N°12]
   - [CRUD Episodio 1 - Mercado Liebre [EJS - CSS - JS]](https://github.com/fedeangeles23/MercadoLiebre7-CRUD-1.git)
 
 - Cuarto Sprint.
 
-- 4 Mercado Liebre CRUD 1 [TP N° 13]
+- 4 Mercado Liebre CRUD 1 [TP N°13]
   - [CRUD Episodio 2 - Mercado Liebre [EJS - CSS - JS]](https://github.com/fedeangeles23/MercadoLiebre8-CRUD-2.git)
   
-- 5 Middlewares [TP N° 14]
+- 5 Middlewares [TP N°14]
   - [Aprendiendo sobre Middlewares [EJS - CSS - JS]](https://github.com/fedeangeles23/Middlewares.git)
 
-- 6 Session y Cookies [TP N° 15]
+- 6 Session y Cookies [TP N°15]
   - [Aprendiendo sobre galletitas y sesiones de terapia [EJS - CSS - JS]](https://github.com/fedeangeles23/SessionYCookies.git)
 
 - Quinto Sprint.
 
 ### Módulo 6:
 
-- 1 Diseño y definición de tablas [TP N° 16]
-  - [Aprendiendo a crear y diseñar tablas[EJS - CSS - JS - SQL]]()
+- 1 Diseño y definición de tablas [TP N°16]
+  - [Aprendiendo a crear y diseñar tablas[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Disenio-Y-Definicion-De-Tablas)
+
+- 2 Manipulación y consulta de datos [TP N°17]
+  - [Manipulación y consulta de datos[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Manipulacion-Y-Consulta-De-Datos)
+
+- 3 Uniones y funciones de agregación [TP N°18]
+  - [Uniones y funciones de agregación[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Uniones-Y-Funciones-De-Agregacion)
+
+- 4 Introducción, modelos y consultas básicas [TP N°19]
+  - [Introducción, modelos y consultas básicas[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Introduccion-Modelos-Y-Consultas-Basicas)
+
+- 5 Manipulación de Datos [TP N°20]
+  - [Manipulación de Datos[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Manipulacion-De-Datos.git)
+
+- SEXTO SPRINT.
+
+### Módulo 7:
+
+- 1 Creando nuestras propias APIs [TP N°21]
+  - [Creando nuestras propias APIs[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Creando-Nuestras-Propias-APIs.git)
+
+- 2 Consumo de APIs desde el backend [TP N°22]
+  - [Consumo de APIs desde el backend[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Consumo-De-APIs-Desde-El-Backend.git)
+
+### Módulo 8:
+
+- 3 Manipulando elementos con JavaScript [TP N°23]
+  - [Manipulando elementos con JavaScript[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Manipulando-Elementos-Con-JavaScript.git)
+  
+- 4 Agregando interacción con eventos [TP N°24]
+  - [Agregando interacción con eventos[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Agregando-Interaccion-Con-Eventos.git)
+
+- 5 Interactuando con formularios [TP N°25]
+  - [Interactuando con formularios[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Interactuando-Con-Formularios..git)
+  
+- 6 Pedidos asincrónicos con JS [TP N°26]
+  - [Pedidos asincrónicos con JS[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Pedidos-Asincronicos-Con-JS.git)
+
+- SÉPTIMO SPRINT.
+
+
+
+
+
 
 
 
