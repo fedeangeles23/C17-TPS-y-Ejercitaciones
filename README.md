@@ -126,13 +126,22 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 - SÉPTIMO SPRINT.
 
+### Módulo 9: Introducción a React.
 
+- 1 Creando una aplicación con React [TP N°27]
+  - [Creando una aplicación con React[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/Creando-Una-Aplicacion-Con-React.git)
 
+- 2 Trabajando con componentes [TP N°28]
+  - [Trabajando con componentes[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/Trabajando-Con-Componentes.git)
 
+- 3 El ciclo de vida de los componentes[TP N°29]
+  - [Ciclo de vida de los componentes[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/El-Ciclo-De-Vida-De-Los-Componentes.git)
 
+- 4 Enlazando los componentes de la aplicación[TP N°30]
+  - [Enlazando los componentes de la aplicacións[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/Enlazando-Los-Componentes-De-La-Aplicacion.git)
 
-
-
+- 5 Hooks [TP N°31]
+  - [Hooks [EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/Hooks.git)
 
 
 ### Gracias a:
