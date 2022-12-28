@@ -29,7 +29,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 - PRIMER SPRINT
 
-### Módulo 4:
+### Módulo 4: Anatomía de un sitio web.
 
 - 1 Introducción a servidores [TP N°4].
   - [DH-Heroes [HTML-CSS-JS]](https://github.com/fedeangeles23/DH-Heroes)
@@ -59,7 +59,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 - TERCER SPRINT.
 
-### Módulo 5:
+### Módulo 5: Express.
 
 - 1 Patrones de diseño MVC [TP N°10]
   - [Pimienta y Sal - Patrones de diseño MVC [EJS - CSS - JS]](https://github.com/fedeangeles23/PatronesDeDisenioMVC.git)
@@ -67,12 +67,12 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 - 2 Vistas dinámicas EJS [TP N° 11]
   - [ejroejroje - Vistas Dinámicas EJS [EJS - CSS - JS]](https://github.com/fedeangeles23/VistasDinamicasEJS.git)
 
-- 3 Mercado Liebre CRUD 1 [TP N°12]
+- 3 CRUD: Episodio 1 [TP N°12]
   - [CRUD Episodio 1 - Mercado Liebre [EJS - CSS - JS]](https://github.com/fedeangeles23/MercadoLiebre7-CRUD-1.git)
 
 - CUARTO SPRINT.
 
-- 4 Mercado Liebre CRUD 1 [TP N°13]
+- 4 CRUD: Episodio 2 [TP N°13]
   - [CRUD Episodio 2 - Mercado Liebre [EJS - CSS - JS]](https://github.com/fedeangeles23/MercadoLiebre8-CRUD-2.git)
   
 - 5 Middlewares [TP N°14]
@@ -83,7 +83,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 - QUINTO SPRINT.
 
-### Módulo 6:
+### Módulo 6: Bases de datos.
 
 - 1 Diseño y definición de tablas [TP N°16]
   - [Aprendiendo a crear y diseñar tablas [EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Disenio-Y-Definicion-De-Tablas)
@@ -102,7 +102,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 - SEXTO SPRINT.
 
-### Módulo 7:
+### Módulo 7: APIs.
 
 - 1 Creando nuestras propias APIs [TP N°21]
   - [Creando nuestras propias APIs [EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Creando-Nuestras-Propias-APIs.git)
@@ -110,7 +110,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 - 2 Consumo de APIs desde el backend [TP N°22]
   - [Consumo de APIs desde el backend [EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Consumo-De-APIs-Desde-El-Backend.git)
 
-### Módulo 8:
+### Módulo 8: JavaScript para front-end.
 
 - 3 Manipulando elementos con JavaScript [TP N°23]
   - [Manipulando elementos con JavaScript [EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Manipulando-Elementos-Con-JavaScript.git)
