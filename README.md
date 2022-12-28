@@ -2,7 +2,7 @@
 Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 <img align="center" src= "https://i.postimg.cc/Dfdk3zXc/dhhouse.png)](https://postimg.cc/MXTryqtc"></img>
-### Módulo 2: 
+### Módulo 2: Introducción a node.js y javascript.
 
 - 1 Iniciando en Node.
   - [Pasito a pasito [JS-NodeJs]](https://github.com/fedeangeles23/C17-TPS)
@@ -25,7 +25,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 - 5 Terminando la app de tareas [TP N°3].
   - [App de tareas 2 [JS-NodeJs]](https://github.com/fedeangeles23/3.AppDeTareas2)
 
-### Módulo 3: 
+### Módulo 3: Metodologías de desarrollo.
 
 - PRIMER SPRINT
 
@@ -86,13 +86,13 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 ### Módulo 6: Bases de datos.
 
 - 1 Diseño y definición de tablas [TP N°16]
-  - [Aprendiendo a crear y diseñar tablas [EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Disenio-Y-Definicion-De-Tablas)
+  - [Aprendiendo a crear y diseñar tablas [SQL]](https://github.com/fedeangeles23/Disenio-Y-Definicion-De-Tablas)
 
 - 2 Manipulación y consulta de datos [TP N°17]
-  - [Manipulación y consulta de datos [EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Manipulacion-Y-Consulta-De-Datos)
+  - [Manipulación y consulta de datos [SQL]](https://github.com/fedeangeles23/Manipulacion-Y-Consulta-De-Datos)
 
 - 3 Uniones y funciones de agregación [TP N°18]
-  - [Uniones y funciones de agregación [EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Uniones-Y-Funciones-De-Agregacion)
+  - [Uniones y funciones de agregación [SQL]](https://github.com/fedeangeles23/Uniones-Y-Funciones-De-Agregacion)
 
 - 4 Introducción, modelos y consultas básicas [TP N°19]
   - [Introducción, modelos y consultas básicas [EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Introduccion-Modelos-Y-Consultas-Basicas)
