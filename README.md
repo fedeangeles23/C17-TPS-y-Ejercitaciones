@@ -5,10 +5,10 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 ### Módulo 2: Introducción a node.js y javascript.
 
 - 1 Iniciando en Node.
-  - [Pasito a pasito [JS-NodeJs]](https://github.com/fedeangeles23/C17-TPS)
+  - [[Ejercitación 1 - Pasito a pasito [JS-NodeJs]](https://github.com/fedeangeles23/C17-TPS)
    
 - 2 Prácticando con node.
-  - [Ejercitación grupal [JS-NodeJs]](https://github.com/fedeangeles23/C17-TPS)
+  - [[Ejercitación 2 - Ejercitación grupal [JS-NodeJs]](https://github.com/fedeangeles23/C17-TPS)
    
 - 3 Haciendo una calculadora [TP N°1].
   - [Calculadora v1 [JS-NodeJs]](https://github.com/fedeangeles23/1.Calculadora)
@@ -24,6 +24,10 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 - 5 Terminando la app de tareas [TP N°3].
   - [App de tareas 2 [JS-NodeJs]](https://github.com/fedeangeles23/3.AppDeTareas2)
+  
+- 6 Cierre de Módulo [EJERCITACIÓN 3]
+  - [Ejercitación 3 - Concesionaria de autos [JS-NodeJs]]()
+  
 
 ### Módulo 3: Metodologías de desarrollo.
 
@@ -55,7 +59,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
   - [Mercado Liebre 5 - Trabajando con formularios [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre5.git) 
 
 - 8 Organizando y animando elementos.
-  - [Mercado Liebre 6 [HTML- CSS]](https://github.com/fedeangeles23/MercadoLiebre6.git) 
+  - [Ejercitación 4 - Mercado Liebre 6 [HTML- CSS]](https://github.com/fedeangeles23/MercadoLiebre6.git) 
 
 - TERCER SPRINT.
 
@@ -99,6 +103,9 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 - 5 Manipulación de Datos [TP N°20]
   - [Manipulación de Datos [EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Manipulacion-De-Datos.git)
+
+- 6 Relaciones y CRUD [EJERCITACIÖN]
+  - [Ejercitación 5 - Relaciones y CRUD[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Relaciones-Y-CRUD.git)
 
 - SEXTO SPRINT.
 
