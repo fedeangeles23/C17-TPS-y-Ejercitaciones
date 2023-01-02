@@ -42,7 +42,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
   - [Mercado Liebre 1 - Estructura de un sitio web [HTML]](https://github.com/fedeangeles23/MercadoLiebre1.git)
 
 - 3 Práctica Adicional - Emilia Cole.
-  -[Emilia Cole - Diseño de página web [HTML - CSS]](https://github.com/fedeangeles23/Emilia-Cole.git) 
+  - [Emilia Cole - Diseño de página web [HTML - CSS]](https://github.com/fedeangeles23/Emilia-Cole.git) 
 
 - 4 Agregando estilos [TP N°6].
   - [Mercado Liebre 2 - Agregando Estilos [HTML-CSS]](https://github.com/fedeangeles23/MercadoLiebre2) 
@@ -104,7 +104,7 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 - 5 Manipulación de Datos [TP N°20]
   - [Manipulación de Datos [EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Manipulacion-De-Datos.git)
 
-- 6 Relaciones y CRUD [EJERCITACIÖN]
+- 6 Relaciones y CRUD [EJERCITACIÓN]
   - [Ejercitación 5 - Relaciones y CRUD[EJS - CSS - JS - SQL]](https://github.com/fedeangeles23/Relaciones-Y-CRUD.git)
 
 - SEXTO SPRINT.
@@ -135,19 +135,22 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 
 ### Módulo 9: Introducción a React.
 
-- 1 Creando una aplicación con React [TP N°27]
+- 1 Creando una aplicación con React [EJERCITACIÓN]
+  - [Ejercitación 6 - Creando una aplicación con React [REACT]](https://github.com/fedeangeles23/Creando-Una-Aplicacion-Con-Create-React-App.git)
+
+- 2 Creando una aplicación con React [TP N°27]
   - [Creando una aplicación con React[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/Creando-Una-Aplicacion-Con-React.git)
 
-- 2 Trabajando con componentes [TP N°28]
+- 3 Trabajando con componentes [TP N°28]
   - [Trabajando con componentes[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/Trabajando-Con-Componentes.git)
 
-- 3 El ciclo de vida de los componentes[TP N°29]
+- 4 El ciclo de vida de los componentes[TP N°29]
   - [Ciclo de vida de los componentes[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/El-Ciclo-De-Vida-De-Los-Componentes.git)
 
-- 4 Enlazando los componentes de la aplicación[TP N°30]
+- 5 Enlazando los componentes de la aplicación[TP N°30]
   - [Enlazando los componentes de la aplicacións[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/Enlazando-Los-Componentes-De-La-Aplicacion.git)
 
-- 5 Hooks [TP N°31]
+- 6 Hooks [TP N°31]
   - [Hooks [EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/Hooks.git)
 
 
