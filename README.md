@@ -136,13 +136,13 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
 ### Módulo 9: Introducción a React.
 
 - 1 Creando una aplicación con React [EJERCITACIÓN]
-  - [Ejercitación 6 - Creando una aplicación con React [REACT]](https://github.com/fedeangeles23/Creando-Una-Aplicacion-Con-Create-React-App.git)
+  - [Ejercitación 6 - Creando una aplicación con React [EJS - CSS - JS - REACT]](https://github.com/fedeangeles23/Creando-Una-Aplicacion-Con-Create-React-App.git)
 
 - 2 Creando una aplicación con React [TP N°27]
-  - [Creando una aplicación con React[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/Creando-Una-Aplicacion-Con-React.git)
+  - [Creando una aplicación con React[EJS - CSS - JS - REACT]](https://github.com/fedeangeles23/Creando-Una-Aplicacion-Con-React.git)
 
 - 3 Trabajando con componentes [TP N°28]
-  - [Trabajando con componentes[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/Trabajando-Con-Componentes.git)
+  - [Trabajando con componentes[EJS - CSS - JS - REACT]](https://github.com/fedeangeles23/Trabajando-Con-Componentes.git)
 
 - 4 El ciclo de vida de los componentes[TP N°29]
   - [Ciclo de vida de los componentes[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/El-Ciclo-De-Vida-De-Los-Componentes.git)
