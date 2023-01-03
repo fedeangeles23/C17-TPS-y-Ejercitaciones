@@ -145,13 +145,16 @@ Todos los trabajos prácticos de Playground [Digital House] - Comisión 17.
   - [Trabajando con componentes[EJS - CSS - JS - REACT]](https://github.com/fedeangeles23/Trabajando-Con-Componentes.git)
 
 - 4 El ciclo de vida de los componentes[TP N°29]
-  - [Ciclo de vida de los componentes[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/El-Ciclo-De-Vida-De-Los-Componentes.git)
+  - [Ciclo de vida de los componentes[EJS - CSS - JS - SQL - REACT]]()
 
 - 5 Enlazando los componentes de la aplicación[TP N°30]
-  - [Enlazando los componentes de la aplicacións[EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/Enlazando-Los-Componentes-De-La-Aplicacion.git)
+  - [Enlazando los componentes de la aplicacións[EJS - CSS - JS - SQL - REACT]]()
 
 - 6 Hooks [TP N°31]
-  - [Hooks [EJS - CSS - JS - SQL - REACT]](https://github.com/fedeangeles23/Hooks.git)
+  - [Hooks [EJS - CSS - JS - SQL - REACT]]()
+  
+- 7 REACT TP 5/5
+    [TP 27,28,29,30,31](https://github.com/fedeangeles23/React-Completo)
 
 
 ### Gracias a:
